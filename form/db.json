@@ -1,0 +1,16 @@
+{
+  "form": [
+    {
+      "id": 1,
+      "username": "ff",
+      "age": 20,
+      "email":"govind@123",
+      "departement": "Hr",
+      "MaterialStutus": true,
+      "resume": "yes",
+      "salary":500
+      
+    }
+  ]
+  
+}
